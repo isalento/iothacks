@@ -1,0 +1,14 @@
+{
+  "name": "arduinoserial",
+  "version": "1.0.0",
+  "description": "Sample app to communicate with arduino over serial connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isalento",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
